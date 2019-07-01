@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\HWPattern\bin\Debug\HWPattern.exe.config
+C:\Users\Адиль\source\repos\HWPattern\bin\Debug\HWPattern.exe
+C:\Users\Адиль\source\repos\HWPattern\bin\Debug\HWPattern.pdb
+C:\Users\Адиль\source\repos\HWPattern\obj\Debug\HWCar.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\HWPattern\obj\Debug\HWPattern.exe
+C:\Users\Адиль\source\repos\HWPattern\obj\Debug\HWPattern.pdb

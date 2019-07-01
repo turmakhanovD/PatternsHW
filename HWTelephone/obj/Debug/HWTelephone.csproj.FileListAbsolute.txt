@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\HWTelephone\bin\Debug\HWTelephone.exe.config
+C:\Users\Адиль\source\repos\HWTelephone\bin\Debug\HWTelephone.exe
+C:\Users\Адиль\source\repos\HWTelephone\bin\Debug\HWTelephone.pdb
+C:\Users\Адиль\source\repos\HWTelephone\obj\Debug\HWTelephone.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\HWTelephone\obj\Debug\HWTelephone.exe
+C:\Users\Адиль\source\repos\HWTelephone\obj\Debug\HWTelephone.pdb

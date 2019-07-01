@@ -1,0 +1,7 @@
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\bin\Debug\HWDZ.exe.config
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\bin\Debug\HWDZ.exe
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\bin\Debug\HWDZ.pdb
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\obj\Debug\HWDZ.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\obj\Debug\HWDZ.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\obj\Debug\HWDZ.exe
+C:\Users\Адиль\source\repos\HWDZ\HWDZ\obj\Debug\HWDZ.pdb

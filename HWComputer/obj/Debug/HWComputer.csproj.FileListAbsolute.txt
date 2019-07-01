@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\HWComputer\bin\Debug\HWComputer.exe.config
+C:\Users\Адиль\source\repos\HWComputer\bin\Debug\HWComputer.exe
+C:\Users\Адиль\source\repos\HWComputer\bin\Debug\HWComputer.pdb
+C:\Users\Адиль\source\repos\HWComputer\obj\Debug\HWComputer.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\HWComputer\obj\Debug\HWComputer.exe
+C:\Users\Адиль\source\repos\HWComputer\obj\Debug\HWComputer.pdb
